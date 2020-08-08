@@ -25,7 +25,7 @@ public class tes extends AppCompatActivity {
             }
         });
 
-        String a = "alhamdulillah apik";
+        String a = "kabarmu piye mbah ?";
     }
 
 }
