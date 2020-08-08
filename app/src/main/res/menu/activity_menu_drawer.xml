@@ -18,6 +18,10 @@
             android:icon="@android:drawable/ic_dialog_map"
             android:title="Maps" />
         <item
+            android:id="@+id/menu_maps_djekstra"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Maps Djekstra" />
+        <item
             android:id="@+id/nav_jumlah"
             android:icon="@drawable/ic_menu_send"
             android:title="Jumlah Data" />

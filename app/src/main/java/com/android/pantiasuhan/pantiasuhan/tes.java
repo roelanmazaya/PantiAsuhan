@@ -25,7 +25,7 @@ public class tes extends AppCompatActivity {
             }
         });
 
-        String a = "testing 20";
+        String a = " ok";
     }
 
 }
