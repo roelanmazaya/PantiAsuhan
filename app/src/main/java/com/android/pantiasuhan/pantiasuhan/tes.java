@@ -24,6 +24,8 @@ public class tes extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        String a = "testing";
     }
 
 }
