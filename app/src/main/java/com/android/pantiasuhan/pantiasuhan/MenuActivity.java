@@ -16,6 +16,7 @@ import android.view.MenuItem;
 
 import com.android.pantiasuhan.pantiasuhan.Pengunjung.AllMapsActivity;
 import com.android.pantiasuhan.pantiasuhan.Pengunjung.MapsActivity;
+import com.android.pantiasuhan.pantiasuhan.Pengunjung.MapsDjekstraActivity;
 import com.android.pantiasuhan.pantiasuhan.Pengunjung.TampilBantuan;
 import com.android.pantiasuhan.pantiasuhan.Pengunjung.TampilSemuaPanti;
 import com.android.pantiasuhan.pantiasuhan.Pengunjung.TampilSemuaPantiJumlah;
@@ -98,7 +99,7 @@ public class MenuActivity extends AppCompatActivity
         {startActivity(new Intent(MenuActivity.this, AllMapsActivity.class));
 
         }else if (id == R.id.menu_maps_djekstra)
-        {startActivity(new Intent(MenuActivity.this, AllMapsActivity.class));
+        {startActivity(new Intent(MenuActivity.this, MapsDjekstraActivity.class));
 
         }else if (id == R.id.nav_jumlah) {
             startActivity(new Intent(MenuActivity.this, TampilSemuaPantiJumlah.class));
