@@ -97,6 +97,9 @@ public class MenuActivity extends AppCompatActivity
         }else if (id == R.id.menu_maps)
         {startActivity(new Intent(MenuActivity.this, AllMapsActivity.class));
 
+        }else if (id == R.id.menu_maps_djekstra)
+        {startActivity(new Intent(MenuActivity.this, AllMapsActivity.class));
+
         }else if (id == R.id.nav_jumlah) {
             startActivity(new Intent(MenuActivity.this, TampilSemuaPantiJumlah.class));
         }else if (id == R.id.nav_donatur) {

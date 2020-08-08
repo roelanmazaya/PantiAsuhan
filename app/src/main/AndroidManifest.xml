@@ -152,6 +152,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MenuActivity" />
         </activity>
+        <activity android:name=".Pengunjung.MapsDjekstraActivity" />
         <activity android:name=".Pengunjung.MapsActivity" />
         <activity android:name=".Pengunjung.AllMapsActivity" />
         <activity android:name=".Pengunjung.TampilPanti" />
