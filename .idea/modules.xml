@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PantiAsuhan.iml" filepath="$PROJECT_DIR$/PantiAsuhan.iml" group="PantiAsuhan" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="PantiAsuhan/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pantijompo.iml" filepath="$PROJECT_DIR$/.idea/modules/pantijompo.iml" group="pantijompo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/pantijompo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/pantijompo-app.iml" group="pantijompo/app" />
     </modules>
   </component>
 </project>
